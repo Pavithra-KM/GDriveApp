@@ -1,0 +1,13 @@
+.colorRed {
+    color: red;
+}
+
+.greenColor{
+    color: green;
+}
+
+#filesTable {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
